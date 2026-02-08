@@ -19,7 +19,7 @@ Mood-based MP3 player built using Python.
 ## Screenshots:
 
 ### Login Page
-![Login](ScreenShots/login.png)
+![Login](https://github.com/ishu-technology/Moodify/blob/1b0ff43a8d6a9efad43eca8f0f29253ec1960dad/ScreenShots/Screenshot%202025-07-17%20214130.png)
 ### Login Successful Page
 ![Login Successful](ScreenShots/loginsuccessful.png)
 ### Signup Page
