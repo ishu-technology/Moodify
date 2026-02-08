@@ -35,7 +35,7 @@ Mood-based MP3 player built using Python.
 ### Energetic Mood Page
 ![ERnergetic](https://github.com/ishu-technology/Moodify/blob/1b0ff43a8d6a9efad43eca8f0f29253ec1960dad/ScreenShots/Screenshot%202025-07-17%20215551.png)
 ### Calm Mood Page
-![Calm]()
+![Calm](https://github.com/ishu-technology/Moodify/blob/1b0ff43a8d6a9efad43eca8f0f29253ec1960dad/ScreenShots/Screenshot%202025-07-17%20215636.png)
 ### Angry Mood Page
 ![Angry]()
 ### Work Mood Page
