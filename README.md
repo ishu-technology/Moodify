@@ -41,6 +41,6 @@ Mood-based MP3 player built using Python.
 ### Work Mood Page
 ![Work](https://github.com/ishu-technology/Moodify/blob/1b0ff43a8d6a9efad43eca8f0f29253ec1960dad/ScreenShots/Screenshot%202025-07-18%20104302.png)
 ### Spiritual Mood Page
-![Spiritual]()
+![Spiritual](https://github.com/ishu-technology/Moodify/blob/1b0ff43a8d6a9efad43eca8f0f29253ec1960dad/ScreenShots/Screenshot%202025-07-18%20104329.png)
 ### Database
 ![Database]()
